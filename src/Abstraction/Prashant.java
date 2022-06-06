@@ -12,7 +12,14 @@ public class Prashant {
 		System.out.println("This is aaa method");
 	}
 
-	public static void main(String[] args) {
+	public void lmo () {
+		System.out.println("this is lmo method");
+		
+	}
+		
+		public static void main(String[] args) {
+			Prashant pr=new Prashant();
+			pr.lmo();
 		Prashant.abc();
 		Prashant.pqr();
 		Prashant.aaa();
