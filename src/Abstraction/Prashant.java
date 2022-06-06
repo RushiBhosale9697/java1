@@ -8,10 +8,14 @@ public class Prashant {
 		System.out.println("This is pqr method");
 		System.out.println("This is pqr method 2");
 	}
+	public static void aaa() {
+		System.out.println("This is aaa method");
+	}
 
 	public static void main(String[] args) {
 		Prashant.abc();
 		Prashant.pqr();
+		Prashant.aaa();
 		
 	}
 
