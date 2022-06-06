@@ -6,6 +6,7 @@ public class Prashant {
 	}
 	public static void pqr() {
 		System.out.println("This is pqr method");
+		System.out.println("This is pqr method 2");
 	}
 
 	public static void main(String[] args) {
