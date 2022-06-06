@@ -2,11 +2,15 @@ package Abstraction;
 
 public class Prashant {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+	public void lmo () {
+		System.out.println("this is lmo method");
 		
-		// Prashants class
+	}
+		
+		public static void main(String[] args) {
+			Prashant pr=new Prashant();
+			pr.lmo();
+	
 	}
 
 }
